@@ -1,2 +1,2 @@
 # day2fynd
-just going through it
+just going through you
